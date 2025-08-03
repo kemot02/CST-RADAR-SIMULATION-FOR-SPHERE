@@ -1,0 +1,39 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "alpha",
+         "type": "float",
+         "value": -90.0
+      },
+      {
+         "name": "theta",
+         "type": "float",
+         "value": 90.0
+      },
+      {
+         "name": "phi",
+         "type": "float",
+         "value": 180.0
+      },
+      {
+         "name": "lambda",
+         "type": "float",
+         "value": 30.0
+      },
+      {
+         "name": "radius",
+         "type": "float",
+         "value": 6.0
+      },
+      {
+         "name": "length",
+         "type": "float",
+         "value": 30.0
+      }
+   ],
+   "outputVariables": []
+}

@@ -1,0 +1,41 @@
+{
+    "parameters": [
+        {
+            "descr": "Rotation angle of E-field Vector (relative to x-axis)",
+            "expr": "-90",
+            "name": "alpha",
+            "value": "-90"
+        },
+        {
+            "descr": "spherical angle of incident plane wave",
+            "expr": "90",
+            "name": "theta",
+            "value": "90"
+        },
+        {
+            "descr": "spherical angle of incident plane wave",
+            "expr": "180",
+            "name": "phi",
+            "value": "180"
+        },
+        {
+            "descr": "wavelength",
+            "expr": "30",
+            "name": "lambda",
+            "value": "30"
+        },
+        {
+            "descr": "radius of cylinder",
+            "expr": "6",
+            "name": "radius",
+            "value": "6"
+        },
+        {
+            "descr": "length of cylinder",
+            "expr": "30",
+            "name": "length",
+            "value": "30"
+        }
+    ],
+    "version": 1
+}
